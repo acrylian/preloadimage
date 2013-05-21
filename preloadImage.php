@@ -84,8 +84,8 @@ class preloadImage {
 			 </div>
 			 <!-- PRELOAD IMAGES PREV + NEXT END-->
 			 ';
+			echo $preload;
 		}
-		echo $preload;
 	}
 }
 ?>
