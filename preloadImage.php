@@ -14,6 +14,7 @@
 $plugin_is_filter = 9|THEME_PLUGIN;
 $plugin_description = gettext('Preloads invisibly the previous and next image the single image image.php page to speed up image browsing.');
 $plugin_author = 'Malte Müller (acrylian)';
+$plugin_version = '1.0';
 $option_interface = 'preloadImage';
 
 zp_register_filter('theme_body_close','preloadImage::preloader');
