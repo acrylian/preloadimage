@@ -1,14 +1,11 @@
 <?php
 /**
- * A simple plugin that preloads the previous and next image invisibly on the single image image.php page 
- * to speed up image browsing.
- *
+ * A simple plugin that preloads the previous and next sized image invisibly on the image.php page to speed up image browsing.
  * Supports both maxspace images or standard images.
- * You need to do this in your theme yourself. Visit the {@link http://colorpowered.com/colorbox/ colorbox} site for information.
  *
  * @author Malte Müller (acrylian)
- *
  * @package plugins
+ * @subpackage media
  */
 
 $plugin_is_filter = 9|THEME_PLUGIN;
