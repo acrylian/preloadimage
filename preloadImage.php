@@ -48,7 +48,7 @@ class preloadImage {
 			$imgurl = '';
 			$preload = '
 				<!-- PRELOAD IMAGES PREV + NEXT START-->
-				<div id="imagepreloader" style="display:none; overflow:hidden;" />	
+				<div id="imagepreloader" style="display:none; overflow:hidden;">	
 				';
 				if(hasPrevImage()) { 
 					if(getOption('preloadimage_maxspace')) {
