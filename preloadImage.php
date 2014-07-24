@@ -3,7 +3,9 @@
  * A simple plugin that preloads the previous and next sized image invisibly on the image.php page to speed up image browsing.
  * Supports both maxspace images or standard images.
  *
- * @author Malte Müller (acrylian)
+ * @author Malte Müller (acrylian) <info@maltem.de>
+ * @copyright 2014 Malte Müller
+ * @license GPL v3 or later
  * @package plugins
  * @subpackage media
  */
